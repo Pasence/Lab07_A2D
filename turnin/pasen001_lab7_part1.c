@@ -1,6 +1,6 @@
-/*	Author: lab
- *  Partner(s) Name: Peter John Asence
- *	Lab Section:
+/*	Author: Peter John Asence
+ *  Partner(s) Name:
+ *	Lab Section: 022 
  *	Assignment: Lab #7  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
  *

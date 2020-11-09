@@ -1,6 +1,6 @@
-/*	Author: lab
- *  Partner(s) Name: Peter John Asence
- *	Lab Section:
+/*	Author: Peter John Asence
+ *  Partner(s) Name: 
+ *	Lab Section: 022
  *	Assignment: Lab #7  Exercise #3
  *	Exercise Description: [optional - include for your own benefit]
  *
@@ -28,7 +28,7 @@ int main(void) {
        	unsigned short x;
 	unsigned char B_LEDS;
 	unsigned char D_LEDS;
-	unsigned char max = 195;// about 195 depends on the intensity of the light 
+	unsigned char max = 194;// about 195 depends on the intensity of the light 
     while (1) {
 	x = ADC; // short = 16 bits
 	//B_LEDS = (char)x;	// char = 8 bits
